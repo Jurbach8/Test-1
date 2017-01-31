@@ -1,5 +1,9 @@
 # Test-1
-First Repository
-- Learning how to use Github 
-- Public project
-
+<h1>Shopping List</h1>
+<u1>
+<li> bricks</li>
+<li> sand</li>
+<li> mortar</li>
+<li> shovel</li>
+<li> gloves</li>
+<li> rope</li>
